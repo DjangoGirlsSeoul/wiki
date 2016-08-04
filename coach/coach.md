@@ -1,4 +1,4 @@
-**Django Girls Coach Manual 장고걸스 코치매뉴얼**
+# Django Girls Coach Manual 장고걸스 코치매뉴얼
 > English Speakers can read here: [Eng](http://coach.djangogirls.org/)
 
 ### 저작권
@@ -9,9 +9,9 @@ Django Girls 코치를 위한 유용한 팁과 기술에 대하여 알려 드립
 이 매뉴얼의 출처는 다음과 같습니다.
 
 * [Hacker School User's Manual](https://www.hackerschool.com/manual)
-* Rails Bridge Teacher Training
-* Open Tech School Coaching Guide
-* Being a Rails Girls Coach
+* [Rails Bridge Teacher Training](http://curriculum.railsbridge.org/workshop/more_teacher_training)
+* [Open Tech School Coaching Guide](http://opentechschool.github.io/slides/presentations/coaching/)
+* [Being a Rails Girls Coach](http://guides.railsgirls.com/coach)
 
 ### 소개
 
@@ -36,17 +36,14 @@ Django Girls 코치가 되어야 하는 이유
 
 # 1. 기본 정보
  - 코치가 되기 위하여 얼마의 시간이 필요한가요?
-
     -  Django Girls는 1일 워크샵입니다. 워크샵 전날에 설치 시간도 짧게 필요합니다. 실제로 코치를 하게 될 시간을 제외하고, 시간을 할애하여 주셔야 하는 몇 가지가 있습니다.
 
 - 입문자 세 명으로 구성된 여러분의 팀과 먼저 친해지세요.
-
     - 워크샵 전날 또는 원격 지원으로 워크샵 전에 입문자가 프로그램 설치를 할 수 있도록 도와주세요. 세 시간 이상 필요할 것입니다.
 
 - 워크샵 전에 진행하는 사전 모임에 참석하여 주세요. (세 시간 정도 소요)
 
 #### 튜토리얼
----
 
 워크샵에서 사용하기 위하여 특별히 작성된 튜토리얼이 있습니다. 여기 링크를 통하여 확인하실 수 있습니다. http://tutorial.djangogirls.org/
 
@@ -171,10 +168,8 @@ Subtle-ism은 우리가 자주 실수하고 있는 부분이며 다른 사람의
 - 코멘트하거나 질문하는데 충분하다고 생각되는 시간 보다 더 많은 시간 기다려주기
 
 ##### 걸림돌 제거하기
----
 
 ###### 두려움
----
 
 우리가 없애려고 하는 큰 장애물은 두려움입니다. 학교나 직장에 국한되지 않은 대부분의 상황에서 사람들은 바보처럼 보여지는 것을 두려워 합니다. 이것은 "왜" 라던가 "어떻게 그렇게 되나요?" 같은 중요한 질문을 하려고 할 때 생깁니다.
 
@@ -254,5 +249,5 @@ Madeline Kunin의 연구: 여성은 남성보다 더 자신을 잘 숨깁니다.
 
 워크샵 이후에 가능한 오랫동안 당신의 팀과 연락을 유지하여 주시기 바랍니다. 그들의 질문에 대답 해 주고, 프로그래밍을 계속 할 수 있도록 용기를 주고, 그들을 당신 지역의 Python 모임에 초대하여 주세요. 모임에 대한 친근한 인상을 주는 것이 가장 중요합니다.
 
-###### 번역
+##### 번역
 장고걸스서울팀 박다영
