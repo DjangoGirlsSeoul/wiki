@@ -3,7 +3,7 @@
 http://blog.djangogirls.org/
 
 ## 기고하기
-[Adrienne Lowe](https://twitter.com/adriennefriend)가 현재 인터뷰 글을 싣고 있습니다. story@djangogirls.org로 인터뷰 내용을 영문으로 적어 전해주세요.
+[Adrienne Lowe](https://twitter.com/adriennefriend)가 현재 블로그를 담당하고 있습니다. 아래 인터뷰 내용을 영문으로 적어 사진과 함께 story@djangogirls.org로 보내주세요.
 
 ## 인터뷰 내용
 
