@@ -1,4 +1,4 @@
-# 장고 커뮤니티 다양성 성명서
+# 장고 커뮤니티 다양성 성명서(Django Community Diversity)
 This is a Korean translation version of [Django Community Dversity](https://www.djangoproject.com/diversity/)
 
 진부한 말은 더 이상 하지 맙시다. 그동안 우리는 모든 기관들이 "다양성"을 기여하고 "관용" 베푼다는 이야기를 많이 들어왔습니다. 아래는 우리의 입장입니다. :
