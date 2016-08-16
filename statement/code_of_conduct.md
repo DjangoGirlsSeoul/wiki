@@ -1,6 +1,7 @@
 # 장고걸스 커뮤니티 수칙(Code of Conduct)
-장고걸스서울은 [장고걸스 커뮤니티 수칙](https://djangogirls.org/pages/coc/)에 의거하여 모든 행사를 운영하고 있습니다.
 English Speakers can read here : [Eng](https://djangogirls.org/pages/coc/)
+
+장고걸스서울은 [장고걸스 커뮤니티 수칙](https://djangogirls.org/pages/coc/)에 의거하여 모든 행사를 운영하고 있습니다.
 
 ### 준수 사항
 장고 걸스는 모든 이들에게 열려 있는 친근한 분위기에서 행사를 진행하길 원합니다. 다른 참가자들에게 예의를 갖추어 주십시오.
