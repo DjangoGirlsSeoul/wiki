@@ -15,5 +15,5 @@
 
 ### 타 행사/ 인터뷰
 - Community Open Camp by Microsoft Korea
-- 2016. 08. 08. 최장호 : 커뮤니티, [발표자료](링크)
+- 2016. 08. 08. 최장호 : 커뮤니티, [발표자료](http://www.slideshare.net/jisungpark7/growing-with-a-community)
 - PYCON Tutorial Day - Django CupCake
